@@ -14,6 +14,6 @@ This repository contains my solutions to various LeetCode problems, categorized 
 
 Feel free to explore, suggest improvements, or fork this repo to create your own solutions!!!
 
-Happy coding!!! 
+Happy coding
 
 (-_-)

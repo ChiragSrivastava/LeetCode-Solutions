@@ -7,7 +7,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 ## Highlights:  
     -> Structured Organization: Problems are grouped into folders by topics such as Arrays, Strings, Dynamic Programming, Graphs, etc.
     
-    -> **Languages Used:** Solutions are primarily written in Python/Java as it is my preferred languages.
+    -> Languages Used: Solutions are primarily written in Python/Java as it is my preferred languages.
     
     -> **Problem-Solving Approach:** Includes explanation of logic, time complexity, and space complexity.
     

@@ -9,7 +9,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
     
     -> Languages Used: Solutions are primarily written in Python/Java as it is my preferred languages.
     
-    -> **Problem-Solving Approach:** Includes explanation of logic, time complexity, and space complexity.
+    -> Problem-Solving Approach: Includes explanation of logic, time complexity, and space complexity.
     
     -> **Progress Tracking:** My journey to mastering problem-solving skills, one problem at a time.
 

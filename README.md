@@ -11,7 +11,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
     
     -> Problem-Solving Approach: Includes explanation of logic, time complexity, and space complexity.
     
-    -> **Progress Tracking:** My journey to mastering problem-solving skills, one problem at a time.
+    -> Progress Tracking: My journey to mastering problem-solving skills, one problem at a time.
 
 Feel free to explore, suggest improvements, or fork this repo to create your own solutions!!!
 

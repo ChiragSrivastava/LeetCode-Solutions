@@ -5,7 +5,7 @@ Welcome to my LeetCode repository!!!
 This repository contains my solutions to various LeetCode problems, categorized by difficulty and topic. Each solution is written with clarity, optimized for performance, and accompanied by comments for better understanding.  
 
 ## Highlights:  
-    -> **Structured Organization:** Problems are grouped into folders by topics such as Arrays, Strings, Dynamic Programming, Graphs, etc.
+    -> Structured Organization: Problems are grouped into folders by topics such as Arrays, Strings, Dynamic Programming, Graphs, etc.
     
     -> **Languages Used:** Solutions are primarily written in Python/Java as it is my preferred languages.
     
